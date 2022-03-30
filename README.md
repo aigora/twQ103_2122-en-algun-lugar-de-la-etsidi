@@ -9,3 +9,4 @@ Celia Vicente (celiavicente), Claudia Ambrós (ClaudiaAmbros), Daniel Blázquez 
 ## Objetivos del trabajo
 
 [Lista de los objetivos que se persiguen con el trabajo propuesto.]
+que no se nos olvide
