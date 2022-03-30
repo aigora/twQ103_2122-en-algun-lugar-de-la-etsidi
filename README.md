@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-Celia Vicente Hernández (celiavicente), Claudia Ambrós Gómez (ClaudiaAmbros), Daniel Blázquez Alejandro (cachopito)
+Celia Vicente (celiavicente), Claudia Ambrós (ClaudiaAmbros), Daniel Blázquez (cachopito)
 
 ## Objetivos del trabajo
 
