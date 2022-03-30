@@ -4,7 +4,7 @@
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Celia Vicente Hernández, Claudia Ambrós Gómez, Daniel Blázquez Alejandro
 
 ## Objetivos del trabajo
 
