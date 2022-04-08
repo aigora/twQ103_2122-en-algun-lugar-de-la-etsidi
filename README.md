@@ -1,6 +1,6 @@
 ## EN ALGÚN LUGAR DE LA ETSIDI
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Estás en el edificio de la ETSIDI, te asomas a la ventana y ves que hace muy buena temperatura. Y a ti no se te ocurre mejor idea que pasar el día en Castilla La Mancha, pero salir de la ETSIDI no es tan fácil como parece. Tendrás que responder correctamente una serie de preguntas de cultura general para poder avanzar hasta conseguir llegar y hacer turismo. ¿Te apuntas?
 
 ## Integrantes del equipo
 
