@@ -8,7 +8,7 @@ Celia Vicente (celiavicente), Claudia Ambrós (ClaudiaAmbros), Daniel Blázquez 
 
 ## Objetivos del trabajo
 
--Ofrecer la posibilidad de multijugador
--Crear distintos niveles de dificultad
--Evitar que el/los jugadores avancen a menos que respondan correctamente
--Poder terminar el juego si los jugadores, tras 3 intentos, no responden correctamente
+1-Ofrecer la posibilidad de multijugador.
+2-Crear distintos niveles de dificultad.
+3-Evitar que el/los jugadores avancen a menos que respondan correctamente.
+4-Poder terminar el juego si los jugadores, tras 3 intentos, no responden correctamente.
