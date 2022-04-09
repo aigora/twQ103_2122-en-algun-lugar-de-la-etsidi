@@ -8,5 +8,7 @@ Celia Vicente (celiavicente), Claudia Ambrós (ClaudiaAmbros), Daniel Blázquez 
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
-que no se nos olvide
+-Ofrecer la posibilidad de multijugador
+-Crear distintos niveles de dificultad
+-Evitar que el/los jugadores avancen a menos que respondan correctamente
+-Poder terminar el juego si los jugadores, tras 3 intentos, no responden correctamente
