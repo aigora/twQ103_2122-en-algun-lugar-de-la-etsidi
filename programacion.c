@@ -14,8 +14,17 @@ struct TDatos {
     int numFav;
 };
 
+float precio_con_iva(float precio, float iva_perct){
+
+    float precio_con_iva;
+
+    precio_con_iva = precio * iva_perct;
+
+    return precio_con_iva;
+}
+
 int main () {
-//Men�
+//Menú
 int contador;
 int i;
 char opcion;
@@ -25,6 +34,7 @@ int resultado;
 // Acertijo 2
 char respuesta[100];
 int comparacion;
+float precio, iva_perct;
 //Acertijo 3
 char llave[5] = {"l, l, a, v, e"};
 char palabra[50];
@@ -92,25 +102,28 @@ do {
 
 } while (comparacion != 0);
 
+do {
+        printf("Para conseguir la manzana se debe pagar con el IVA incluido. En el cartel pone que el precio de la manzana es de 0'20€.\n");
+        printf("Introducir el valor de la manzana para saber cuanto vale con IVA: ");
+        scanf("%f", &precio);
+        if (precio > 0) {
+            iva_perct = 0.21;
 
-
-/*do{
-    fflush(stdin);
-    printf("Escribe la respuesta: ");
-    gets(respuesta);
-}while(respuesta[i] != 'Manzana' || respuesta[i] != 'manzana');
-printf("Disfruta de tu manzana!\n");
-*/
+            printf("El precio de %f euros con IVA es: %f euros\n", precio, precio_con_iva(precio, iva_perct));
+        }
+    } while (precio < 0);
+    
 if (contador == 1){
-    printf("Dirigete hacia la puerta bajando las escaleras.\n");
+    printf("Paga y dirigete hacia la puerta bajando las escaleras.\n");
 } else {
-    printf("Dirigios hacia la puerta bajando las escaleras.\n");
+    printf("Pagad y dirigios hacia la puerta bajando las escaleras.\n");
 }
 
 printf("OH NO! La puerta esta cerrada. Para salir sera necesario encontrar la llave.\n");
 
 printf("Para conseguirla se necesitan buscar 5 palabras que cumplan las siguientes condiciones y solamente hay 1 intento: \n");
 
+fflush(stdin);
 printf("Palabra 1: introducir una palabra cuya primera letra sea la L.\n");
 gets(palabra);
 
